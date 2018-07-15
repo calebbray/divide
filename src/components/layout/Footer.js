@@ -2,8 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div className="footer bg-light text-center">
-      <p>(509) 723 - 6537</p>
+    <div className="footer bg-light text-center mt-5">
       <p>
         <a href="mailto:dividedesigndevelopment@gmail.com">
           DIVIDEDESIGNDEVELOPMENT@GMAIL.COM

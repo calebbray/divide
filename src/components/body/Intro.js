@@ -3,7 +3,7 @@ import logo from '../../images/logo-main.png';
 
 const Intro = () => {
   return (
-    <div className="intro margin-top">
+    <div className="intro margin-top grid">
       <div className="image-container">
         <img src={logo} alt="main logo" className="logo-main" />
       </div>
